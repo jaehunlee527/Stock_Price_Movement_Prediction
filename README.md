@@ -6,7 +6,7 @@ However, in a vain attempt to build a reliable, or at least a surviving mechanis
 
 I will be using ML tools to build a binary classifier, which tells the investors to either buy or sell 5 days prior to the next opening day. After that, we will see in the back testing to find out if the model has any usage. 
 
-We will be testing with random forest classifier. 
+We will be testing with random forest classifier and neural network. 
 
 ## What features are we using?
 
