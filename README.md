@@ -8,6 +8,12 @@ I will be using ML tools to build a binary classifier, which tells the investors
 
 We will be testing with random forest classifier and neural network. 
 
+## Datasets
+
+I used two APIs to fetch ticker information and indicators.
+- [yfinance](https://pypi.org/project/yfinance/): provides trading prices & trade volume
+- [finta](https://github.com/peerchemist/finta): provides technical indicators
+
 ## What features are we using?
 
 There are various, in fact hundreds of possible indicators. The following are examples of indicators we are going to use.
